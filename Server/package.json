@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Welcome to Kids World, your one-stop shop for all things kids! Whether you're looking for clothing, toys, accessories, or essentials, we've got you covered. Our goal is to provide a fun and convenient shopping experience for parents and kids alike.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
